@@ -127,4 +127,5 @@ Archivo: `ConsultorioMedico_completo.sql`
 ---
 
 ## 9. Repositorio en GitHub
-🔗 **[Enlace pendiente de agregar]**
+## Enlace al repositorio en GitHub
+[Ver en GitHub](https://github.com/Micaelarombola/ConsultoriomedicoRombola)
